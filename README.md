@@ -16,7 +16,7 @@ I work at the intersection of pitching biomechanics, player-tracking data and st
 | Project | Question | Stack |
 |---|---|---|
 | [obp-elbow-torque](https://github.com/Andresperez397/obp-elbow-torque) | How much of a pitcher's elbow varus torque can be predicted from body size, velocity and mechanics, and how much does leaky validation overstate it? | Python, statsmodels, scikit-learn |
-| [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
+| [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) · [live app](https://pitch-types-are-relative.streamlit.app) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
 
 #### Toolkit
 - **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL)

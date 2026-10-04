@@ -37,6 +37,7 @@ The same habits carry over directly:
 | Project | Question | Stack |
 |---|---|---|
 | [sba-loan-default-risk](https://github.com/Andresperez397/sba-loan-default-risk) · [live app](https://andresperez397-sba-loan-default-risk.share.connect.posit.cloud) | Can a transparent credit scorecard predict early default on SBA small-business loans approved after the model was built, and does it beat the lender's own price for risk? | Python, DuckDB, scikit-learn, R Shiny |
+| [loan-data-quality-pipeline](https://github.com/Andresperez397/loan-data-quality-pipeline) | What breaks, changes or goes missing when a public 1.6-million-row loan dataset is republished each quarter? A data contract, 26 SQL validation rules, quarantine of failed records and a quality report. | Python, DuckDB (SQL), YAML, pytest, GitHub Actions |
 
 #### Toolkit
 - **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL, DuckDB)

@@ -19,6 +19,7 @@ I work at the intersection of sports biomechanics, player-tracking data and stat
 | [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) · [live app](https://pitch-types-are-relative.streamlit.app) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
 | [obp-swing-speed](https://github.com/Andresperez397/obp-swing-speed) | Where does bat speed come from, and how much of it becomes exit velocity? Checks lab bat-ball physics against 2025 MLB bat tracking. | Python, statsmodels, scikit-learn |
 | [nfl-presnap-predictability](https://github.com/Andresperez397/nfl-presnap-predictability) · [live app](https://andresperez397-nfl-presnap-predictability.share.connect.posit.cloud) | How predictable is an NFL offense before the snap, and how much does each offense give away beyond league norms once small samples are shrunk? | R, xgboost, lme4, Shiny |
+| [nba-shot-making](https://github.com/Andresperez397/nba-shot-making) | How much of a player's shooting is shot-making versus shot selection, is shot-making a stable skill, and what do teams control on offense and defense? | Python, scikit-learn, statsmodels |
 
 #### Toolkit
 - **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL)

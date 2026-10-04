@@ -1,26 +1,42 @@
 ### Andres Perez
 
-I work at the intersection of sports biomechanics, player-tracking data and statistical modeling, and I apply the same validation discipline to credit risk. My background:
+Data analyst with a biomechanics and systems-engineering background. I build analyses that hold up on data they have never seen, for sports organizations and for businesses.
 
+**Two ways to read this profile:**
+- **[Sports analytics](#sports-analytics):** biomechanics, player tracking, and scouting models for front offices, coaches and performance staff.
+- **[Business and risk analytics](#business-and-risk-analytics):** credit risk, model validation, SQL, and data quality for businesses and financial institutions.
+
+**Background**
 - **Biomechanics:** M.S. in Kinesiology (Biomechanics), Point Loma Nazarene University, 2026
 - **Engineering:** B.S. in Systems Engineering, UNC Charlotte
-- **Professional baseball data work:**
+- **Professional data work:**
   - Detroit Tigers (Performance Science)
   - Philadelphia Phillies (data operations)
   - Full Swing (motion-capture and launch-monitor data validation)
 
-**How I work:** I decide the questions before looking at outcomes, validate at the level the model will actually be used (new pitchers, not new pitches), and report what doesn't work as clearly as what does.
+**How I work:** I decide the questions before looking at outcomes, validate at the level the model will actually be used (new pitchers, not new pitches; next year's loans, not this year's), and report what doesn't work as clearly as what does.
 
-#### Featured projects
+#### Sports analytics
 
 | Project | Question | Stack |
 |---|---|---|
 | [obp-elbow-torque](https://github.com/Andresperez397/obp-elbow-torque) | How much of a pitcher's elbow varus torque can be predicted from body size, velocity and mechanics, and how much does leaky validation overstate it? | Python, statsmodels, scikit-learn |
-| [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) · [live app](https://pitch-types-are-relative.streamlit.app) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
 | [obp-swing-speed](https://github.com/Andresperez397/obp-swing-speed) | Where does bat speed come from, and how much of it becomes exit velocity? Checks lab bat-ball physics against 2025 MLB bat tracking. | Python, statsmodels, scikit-learn |
+| [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) · [live app](https://pitch-types-are-relative.streamlit.app) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
 | [nfl-presnap-predictability](https://github.com/Andresperez397/nfl-presnap-predictability) · [live app](https://andresperez397-nfl-presnap-predictability.share.connect.posit.cloud) | How predictable is an NFL offense before the snap, and how much does each offense give away beyond league norms once small samples are shrunk? | R, xgboost, lme4, Shiny |
 | [nba-shot-making](https://github.com/Andresperez397/nba-shot-making) | How much of a player's shooting is shot-making versus shot selection, is shot-making a stable skill, and what do teams control on offense and defense? | Python, scikit-learn, statsmodels |
-| [sba-loan-default-risk](https://github.com/Andresperez397/sba-loan-default-risk) | Can a transparent credit scorecard predict early default on SBA small-business loans approved after the model was built, and does it beat the lender's own price for risk? | Python, DuckDB, scikit-learn, R Shiny |
+
+#### Business and risk analytics
+
+The same habits carry over directly:
+- **SQL on large tables:** DuckDB, SQL Server, PostgreSQL
+- **Data validation and QA:** launch-monitor and motion-capture validation at Full Swing; data operations at the Phillies
+- **Model risk checks:** out-of-time validation, stability (PSI), calibration and segment monitoring
+- **Dashboards for decision-makers:** R Shiny and Streamlit
+
+| Project | Question | Stack |
+|---|---|---|
+| [sba-loan-default-risk](https://github.com/Andresperez397/sba-loan-default-risk) · [live app](https://andresperez397-sba-loan-default-risk.share.connect.posit.cloud) | Can a transparent credit scorecard predict early default on SBA small-business loans approved after the model was built, and does it beat the lender's own price for risk? | Python, DuckDB, scikit-learn, R Shiny |
 
 #### Toolkit
 - **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL, DuckDB)

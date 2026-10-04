@@ -38,7 +38,7 @@ The same habits carry over directly:
 |---|---|---|
 | [sba-loan-default-risk](https://github.com/Andresperez397/sba-loan-default-risk) · [live app](https://andresperez397-sba-loan-default-risk.share.connect.posit.cloud) | Can a transparent credit scorecard predict early default on SBA small-business loans approved after the model was built, and does it beat the lender's own price for risk? | Python, DuckDB, scikit-learn, R Shiny |
 | [loan-data-quality-pipeline](https://github.com/Andresperez397/loan-data-quality-pipeline) | What breaks, changes or goes missing when a public 1.6-million-row loan dataset is republished each quarter? A data contract, 26 SQL validation rules, quarantine of failed records and a quality report. | Python, DuckDB (SQL), YAML, pytest, GitHub Actions |
-| [retail-operations-case-study](https://github.com/Andresperez397/retail-operations-case-study) | Which products should an online retailer discontinue, and how much revenue would the cut put at risk? SQL cleanup and KPIs on 1M invoice lines, a rule tested on the following year, a one-page decision memo and a dashboard. | SQL (DuckDB), Python, Streamlit |
+| [retail-operations-case-study](https://github.com/Andresperez397/retail-operations-case-study) · [live dashboard](https://retail-operations-dashboard.streamlit.app) | Which products should an online retailer discontinue, and how much revenue would the cut put at risk? SQL cleanup and KPIs on 1M invoice lines, a rule tested on the following year, a one-page decision memo and a dashboard. | SQL (DuckDB), Python, Streamlit |
 
 #### Toolkit
 - **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL, DuckDB)

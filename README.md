@@ -1,6 +1,6 @@
 ### Andres Perez
 
-I work at the intersection of sports biomechanics, player-tracking data and statistical modeling. My background:
+I work at the intersection of sports biomechanics, player-tracking data and statistical modeling, and I apply the same validation discipline to credit risk. My background:
 
 - **Biomechanics:** M.S. in Kinesiology (Biomechanics), Point Loma Nazarene University, 2026
 - **Engineering:** B.S. in Systems Engineering, UNC Charlotte
@@ -20,9 +20,10 @@ I work at the intersection of sports biomechanics, player-tracking data and stat
 | [obp-swing-speed](https://github.com/Andresperez397/obp-swing-speed) | Where does bat speed come from, and how much of it becomes exit velocity? Checks lab bat-ball physics against 2025 MLB bat tracking. | Python, statsmodels, scikit-learn |
 | [nfl-presnap-predictability](https://github.com/Andresperez397/nfl-presnap-predictability) · [live app](https://andresperez397-nfl-presnap-predictability.share.connect.posit.cloud) | How predictable is an NFL offense before the snap, and how much does each offense give away beyond league norms once small samples are shrunk? | R, xgboost, lme4, Shiny |
 | [nba-shot-making](https://github.com/Andresperez397/nba-shot-making) | How much of a player's shooting is shot-making versus shot selection, is shot-making a stable skill, and what do teams control on offense and defense? | Python, scikit-learn, statsmodels |
+| [sba-loan-default-risk](https://github.com/Andresperez397/sba-loan-default-risk) | Can a transparent credit scorecard predict early default on SBA small-business loans approved after the model was built, and does it beat the lender's own price for risk? | Python, DuckDB, scikit-learn, R Shiny |
 
 #### Toolkit
-- **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL)
+- **Languages:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4, Shiny), SQL (SQL Server, PostgreSQL, DuckDB)
 - **Data platforms:** Azure Databricks
 - **Tracking and biomechanics data:** Hawk-Eye, TrackMan, Statcast, KinaTrax, Theia, Qualisys, VALD, AMTI force plates
 

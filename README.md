@@ -1,6 +1,6 @@
 ### Andres Perez
 
-Data analyst with a biomechanics and systems-engineering background. I build analyses that hold up on data they have never seen, for sports organizations and for businesses.
+Data scientist with a biomechanics and systems-engineering background. I build models and analyses that hold up on data they have never seen, for sports organizations and for businesses.
 
 **Two ways to read this profile:**
 - **[Sports analytics](#sports-analytics):** biomechanics, player tracking, and scouting models for front offices, coaches and performance staff.

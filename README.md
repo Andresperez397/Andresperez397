@@ -25,6 +25,7 @@ Data scientist with a biomechanics and systems-engineering background. I build m
 | [pitch-type-classifier](https://github.com/Andresperez397/pitch-type-classifier) · [live app](https://pitch-types-are-relative.streamlit.app) | Can MLB pitch labels be recovered for unseen pitchers, and when the model disagrees, is it the model or the label? (2025 season, about 700k pitches) | Python, scikit-learn, Streamlit |
 | [nfl-presnap-predictability](https://github.com/Andresperez397/nfl-presnap-predictability) · [live app](https://andresperez397-nfl-presnap-predictability.share.connect.posit.cloud) | How predictable is an NFL offense before the snap, and how much does each offense give away beyond league norms once small samples are shrunk? | R, xgboost, lme4, Shiny |
 | [nba-shot-making](https://github.com/Andresperez397/nba-shot-making) | How much of a player's shooting is shot-making versus shot selection, is shot-making a stable skill, and what do teams control on offense and defense? | Python, scikit-learn, statsmodels |
+| [vald-hip-mobility-pitching](https://github.com/Andresperez397/vald-hip-mobility-pitching) | Do static hip and shoulder strength and mobility tests predict release speed, elbow load or hip motion once body size is accounted for? Includes an audit of corrupt rows that make the raw table look 90% predictable. | Python, scikit-learn, pytest |
 
 #### Business and risk analytics
 

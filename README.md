@@ -3,8 +3,8 @@
 Data scientist with a biomechanics and systems-engineering background. I build models and analyses that hold up on data they have never seen, for sports organizations and for businesses.
 
 **Two ways to read this profile:**
-- **[Sports analytics](#sports-analytics):** biomechanics, player tracking, automation, and scouting models for front offices, coaches and performance staff.
-- **[Business and risk analytics](#business-and-risk-analytics):** credit risk, model validation, SQL, automation, and data quality for businesses and financial institutions.
+- **[Sports analytics](#sports-analytics):** biomechanics, player tracking, automation, and predictive modeling for front offices, coaches and performance staff.
+- **[Business and risk analytics](#business-and-risk-analytics):** risk, predictive modeling, SQL, automation, and data quality for businesses and financial institutions.
 
 **Background**
 - **Biomechanics:** M.S. in Kinesiology (Biomechanics), Point Loma Nazarene University, 2026

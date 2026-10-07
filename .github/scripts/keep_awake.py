@@ -15,6 +15,7 @@ from playwright.sync_api import sync_playwright
 APPS = [
     "https://pitch-types-are-relative.streamlit.app/",
     "https://retail-operations-dashboard.streamlit.app/",
+    "https://elbow-torque-explorer.streamlit.app/",
 ]
 WAKE_BUTTON = re.compile("get this app back up", re.I)
 
